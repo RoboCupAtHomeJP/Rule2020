@@ -1,10 +1,10 @@
 # ロボカップ@ホーム2020ルール
-ロボカップジャパンオープン2020オンライン @ホームリーグで使用するルール公開用リポジトリです．  
+ロボカップジャパンオープン2020あいち @ホームリーグで使用するルール公開用リポジトリです．  
 **質問はissueまでお願いいたします．**
 
-## Open Platform League (OPL)
+## Open Platform リーグ
 現在ルールの詳細は策定中ですので，変更となる可能性があります．ご注意ください．  
-**オンラインの仕様に併せ，各ルールの詳細が変更される可能性があります．**
+**Go Get It はルールの詳細が変更される可能性が特に高いです．**
 
 General Rules
 - [General Rules](rules/generalrules_ja.md) （[English version](rules/generalrules_en.md)）
@@ -12,12 +12,14 @@ General Rules
 Tasks
 - [Robot Inspection (Setup Day)](rules/robotinspection_ja.md) （[English version](rules/robotinspection_en.md)）
 - [Basic Functionalities, RCJ2015](rules/basicfunctionalities_ja.md) （[English version](rules/basicfunctionalities_en.md)）
+- [GPSR RC2018](rules/gpsr_ja.md) （[English version](rules/gpsr_en.md)）
+- [Go Get It in Unknown Environment, RCJ2018](rules/gogetit_ja.md) （[English version](rules/gogetit_en.md)）
 - Final
 
 
-## Domestic Standard Platform League (DSPL)
+## Domestic Standard Platform リーグ
 現在ルールの詳細は策定中ですので，変更となる可能性があります．ご注意ください．  
-**オンラインの仕様に併せ，各ルールの詳細が変更される可能性があります．**
+**Tidy UpとGo Get It はルールの詳細が変更される可能性が特に高いです．**
 
 General Rules
 - [General Rules](rules/generalrules_ja.md) （[English version](rules/generalrules_en.md)）
@@ -25,20 +27,25 @@ General Rules
 Tasks
 - [Robot Inspection (Setup Day)](rules/robotinspection_ja.md) （[English version](rules/robotinspection_en.md)）
 - [Tidy Up, WRS2020](rules/tidyup_ja.md) （[English version](rules/tidyup_en.md)）
+- [GPSR RC2018](rules/gpsr_ja.md) （[English version](rules/gpsr_en.md)）
+- [Go Get It in Unknown Environment, RCJ2018](rules/gogetit_ja.md) （[English version](rules/gogetit_en.md)）
 - Final
 
 ## Education リーグ
 以下の競技を実施します．
-- Technical Challenges
+- Poster
+- Carry My Luggage
+- Find My Mates
+- Receptionist
+- Finals
 
-ルールの詳細は後ほど更新されます．
+ルールの詳細は[こちら](https://sites.google.com/site/robocupathomeedubk/challenges/robocup-home-education-challenge-robocup-japan-open-2020/rules-2020-robocup-japan-open-2020)をご確認ください．
 
-## Simulation Domestic Standard Platform League (Simulation DSPL)
-※ Simulation Domestic Standard Platform League (Simulation DSPL) は，本年新設されるリーグです．[HSRのシミュレータ](https://github.com/hsr-project/tmc_wrs_docker/blob/master/README_ja.md)を用いて実施されます．各種質問は[こちら](https://github.com/hsr-project/tmc_wrs_docker/issues)で受付中です．
-
-下記のタスクを実施予定です．
-- Tidy Up
-
+## Simulation リーグ
+WRS 2018で実施された，下記のタスクを実施します．
+- Handyman
+- Interactive Cleanup
+- Human Navigation
 
 参加チームには詳細がメールで届いています．そちらをご確認ください．
 
