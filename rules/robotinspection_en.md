@@ -118,6 +118,13 @@ If the robot doesn't have an emergency stop button, the robot will be disqualifi
 <!--（[RoboCup 2018 Rule Book 3.4.4. & 3.8.1.](https://athome.robocup.org/wp-content/uploads/2018/10/2018_rulebook.pdf)参照．）-->
 <!--これがないロボットは失格となる．-->
 
+## OC Instruction
+Before the start of competition
+
+* Announce the entrance of arena
+* Announce the exit of arena (just before the start of test)
+* Close the door at the entrance of arena.
+* Confirm with team members which test will be skipped or not.
 
 
 ## Score Sheet
