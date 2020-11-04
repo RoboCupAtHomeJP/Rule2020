@@ -1,5 +1,10 @@
 # ロボカップ@ホーム2020ルール
 ロボカップジャパンオープン2020オンライン @ホームリーグで使用するルール公開用リポジトリです．  
+
+This is a repository for rules of RoboCup Japan Open 2020 Online @Home League. 
+
+[English](README_en.md) | 日本語
+
 **質問はissueまでお願いいたします．**
 
 ## Open Platform League (OPL)
