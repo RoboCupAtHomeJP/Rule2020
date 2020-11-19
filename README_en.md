@@ -46,4 +46,5 @@ Simulation Domestic Standard Platform League (Simulation DSPL) is a new league t
 The following competition will be held.
 - Tidy Up
 
-Details have been sent to the participating teams by email.
+Please check the website below for the details.
+https://dev.to/yosuke/robocup-simulation-league-is-accepting-your-challenge-for-free-1g66
