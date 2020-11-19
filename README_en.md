@@ -14,11 +14,11 @@ English | [日本語](README.md)
 **Please note that the details of the rules may be changed due to the online specifications.**
 
 General Rules
-- [General Rules](rules/generalrules_en.md) （[Japanese version](rules/generalrules_ja.md)）
+- [General Rules](rules/generalrules_en.md) <!-- （[Japanese version](rules/generalrules_ja.md)） -->
 
 Tasks
-- [Robot Inspection (Setup Day)](rules/robotinspection_en.md) （[Japanese version](rules/robotinspection_ja.md)）
-- [Basic Functionalities, RCJ2015](rules/basicfunctionalities_en.md) （[Japanese version](rules/basicfunctionalities_ja.md)）
+- [Robot Inspection (Setup Day)](rules/robotinspection_en.md) <!-- （[Japanese version](rules/robotinspection_ja.md)） -->
+- [Basic Functionalities, RCJ2015](rules/basicfunctionalities_en.md) <!-- （[Japanese version](rules/basicfunctionalities_ja.md)） -->
 - Final
 
 
@@ -27,11 +27,11 @@ Tasks
 **Please note that the details of the rules may be changed due to the online specifications.**
 
 General Rules
-- [General Rules](rules/generalrules_en.md) （[Japanese version](rules/generalrules_ja.md)）
+- [General Rules](rules/generalrules_en.md) <!-- （[Japanese version](rules/generalrules_ja.md)） -->
 
 Tasks
-- [Robot Inspection (Setup Day)](rules/robotinspection_en.md) （[Japanese version](rules/robotinspection_ja.md)）
-- [Tidy Up, WRS2020](rules/tidyup_en.md) （[Japanese version](rules/tidyup_ja.md)）
+- [Robot Inspection (Setup Day)](rules/robotinspection_en.md) <!-- （[Japanese version](rules/robotinspection_ja.md)） -->
+- [Tidy Up, WRS2020](rules/tidyup_en.md) <!-- （[Japanese version](rules/tidyup_ja.md)） -->
 - Final
 
 ## Education League

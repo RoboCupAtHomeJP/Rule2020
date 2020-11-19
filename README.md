@@ -12,11 +12,11 @@ This is a repository for rules of RoboCup Japan Open 2020 Online @Home League.
 **オンラインの仕様に併せ，各ルールの詳細が変更される可能性があります．**
 
 General Rules
-- [General Rules](rules/generalrules_ja.md) （[English version](rules/generalrules_en.md)）
+- [General Rules](rules/generalrules_ja.md) <!-- （[English version](rules/generalrules_en.md)） -->
 
 Tasks
-- [Robot Inspection (Setup Day)](rules/robotinspection_ja.md) （[English version](rules/robotinspection_en.md)）
-- [Basic Functionalities, RCJ2015](rules/basicfunctionalities_ja.md) （[English version](rules/basicfunctionalities_en.md)）
+- [Robot Inspection (Setup Day)](rules/robotinspection_ja.md) <!-- （[English version](rules/robotinspection_en.md)） -->
+- [Basic Functionalities, RCJ2015](rules/basicfunctionalities_ja.md) <!-- （[English version](rules/basicfunctionalities_en.md)） -->
 - Final
 
 
@@ -25,11 +25,11 @@ Tasks
 **オンラインの仕様に併せ，各ルールの詳細が変更される可能性があります．**
 
 General Rules
-- [General Rules](rules/generalrules_ja.md) （[English version](rules/generalrules_en.md)）
+- [General Rules](rules/generalrules_ja.md) <!-- （[English version](rules/generalrules_en.md)） -->
 
 Tasks
-- [Robot Inspection (Setup Day)](rules/robotinspection_ja.md) （[English version](rules/robotinspection_en.md)）
-- [Tidy Up, WRS2020](rules/tidyup_ja.md) （[English version](rules/tidyup_en.md)）
+- [Robot Inspection (Setup Day)](rules/robotinspection_ja.md) <!-- （[English version](rules/robotinspection_en.md)） -->
+- [Tidy Up, WRS2020](rules/tidyup_ja.md) <!-- （[English version](rules/tidyup_en.md)） -->
 - Final
 
 ## Education リーグ
