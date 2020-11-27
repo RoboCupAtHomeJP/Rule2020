@@ -36,11 +36,12 @@ Team Description Paper wil be evaluated in the following criteria.
 - the relevant scientific contributions and publications, and
 - the contributions to the RoboCup@Home league.
 
-Please submit the Technical Video Challenge and Team Description Paper by the following link.
+# Submission of the Technical Video and Team Desciription Paper
+Please submit the Technical Video and Team Description Paper by the following link.
 
 https://cn.robocupathomeedu.org/submission/
 
-Due of Technical Video Challenge and Team Description Paper Submission: **Dec 16, 2020**
+Due of Technical Video and Team Description Paper Submission: **Dec 16, 2020**
 
 Materials
 - Technical Video: Video showing the best robot performance. 
