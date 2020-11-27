@@ -45,7 +45,7 @@ Tasks
 
 ※ Additional information
 - Technical Video Challenge in RoboCup2020 @Home Education Online Challenge : [movies](https://www.youtube.com/c/RoboCupatHomeEDU/playlists).
-- This league will be performed based on the rule of RoboCup2020「[@Home Education Online Challenge](https://www.robocupathomeedu.org/challenges/robocuphome-education-online-challenge-2020)」
+- The rule of RoboCup2020 (World Competition)「[@Home Education Online Challenge](https://www.robocupathomeedu.org/challenges/robocuphome-education-online-challenge-2020)」
 
 ## Simulation Domestic Standard Platform League (Simulation DSPL)
 ※ Simulation Domestic Standard Platform League (Simulation DSPL) は，本年新設されるリーグです．[HSRのシミュレータ](https://github.com/hsr-project/tmc_wrs_docker/blob/master/README_ja.md)を用いて実施されます．各種質問は[こちら](https://github.com/hsr-project/tmc_wrs_docker/issues)で受付中です．
