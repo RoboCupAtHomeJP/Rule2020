@@ -34,7 +34,9 @@ Tasks
 
 ## Education リーグ
 以下の競技を実施します．
-- Technical Challenges
+- Technical Video Challenges and Team Description Paper
+- Poster Session
+- Technical Challenges (Fials)
 
 ルールの詳細は後ほど更新されます．
 
