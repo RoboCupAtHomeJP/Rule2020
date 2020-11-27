@@ -34,11 +34,18 @@ Tasks
 
 ## Education リーグ
 以下の競技を実施します．
-- Technical Video Challenges and Team Description Paper
+- [Technical Video Challenges and Team Description Paper](rules/videoandtdp.md)
 - Poster Session
-- Technical Challenges (Fials)
+  - Please prepare slides to introduce your team technologeis and implemented systems. 
+  - Each team has 10 min for presentation, 5 min for Q&A.
+- Technical Challenges (Finals)
+  - The Technical Video Challenge entries will be reviewed to select teams for the Technical Challenge(Finals).
+  - Selected teams will give presentation and robot demonstration remotely via live streaming for the Technical Challenge during the RoboCup week.
+  - Each team has 15 min for presentation, 5 min for Q&A.
 
-ルールの詳細は後ほど更新されます．
+- Additional information
+  - RoboCup2020（世界大会） @Home Education Online Challenge のビデオは [movies](https://www.youtube.com/c/RoboCupatHomeEDU/playlists)からご覧いただけます。
+  - 本リーグは、RoboCup2020（世界大会）の「[@Home Education Online Challenge](https://www.robocupathomeedu.org/challenges/robocuphome-education-online-challenge-2020)」を基に行われます
 
 ## Simulation Domestic Standard Platform League (Simulation DSPL)
 ※ Simulation Domestic Standard Platform League (Simulation DSPL) は，本年新設されるリーグです．[HSRのシミュレータ](https://github.com/hsr-project/tmc_wrs_docker/blob/master/README_ja.md)を用いて実施されます．各種質問は[こちら](https://github.com/hsr-project/tmc_wrs_docker/issues)で受付中です．
