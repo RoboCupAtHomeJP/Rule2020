@@ -8,7 +8,8 @@ In the task, robots are evaluated the object recognition skill and manipulation 
 
 ## Rules
 * The rules of the task are based on the "Tidy Up" in World Robot Challenge at [World Robot Summit 2020](https://worldrobotsummit.org/en/)".
-* The rule book are based on the [Rules of WRS2020](https://worldrobotsummit.org/wrs2020/challenge/download/Rules/DetailedRules_Partner_EN.pdf)
-* The maximum score for this task is 300 points. The scores for this task are multiplied 0.3 by the scores on p.16 of the rulebook.
+* The rule book are based on the [Rules of WRS2020](https://worldrobotsummit.org/wrs2020/challenge/download/Rules/DetailedRules_Partner_EN.pdf)(Version 1.0.0)
 
+~~* The maximum score for this task is 300 points. The scores for this task are multiplied 0.3 by the scores on p.16 of the rulebook.~~
 
+* The score sheets published on p.18- of the rulebook will be adopted.
