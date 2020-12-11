@@ -4,7 +4,7 @@ Please prepare the Technical Video based on the following rules.
   - Solving the competition tasks in the Rules 2020.
   - Open scenario based on the Finals in the Rules 2020.
   - Robot applications to address the current COVID-19 pandemic situation (based on Finals in the Rules 2020).
-- Video should be mp4 format and 1080P (1920×1080).
+- Video should be mp4 format and 1920×1080 resolution.
 
 # Team Desciription Paper
 Please prepare the Team Discription Paper based on the following rules.
@@ -22,7 +22,7 @@ Please prepare the Team Discription Paper based on the following rules.
   - Team members' names
   - photo(s) of the robot(s), unless included before.
   - description of the hardware used
-  - Brief, compact list of external devices (See Section ??), if any.
+  - Brief, compact list of external devices, if any.
   - Brief, compact list of 3rd party reused software packages (e.g. ROS' object recognition should be listed, but not OpenCV).
   - Brief description of the hardware used by the robot(s).
 
