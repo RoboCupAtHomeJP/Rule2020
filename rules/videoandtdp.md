@@ -7,7 +7,8 @@ Please prepare the Technical Video based on the following rules.
 - Video should be mp4 format and 1920×1080 resolution.
 
 # Team Desciription Paper
-Please prepare the Team Discription Paper based on the following rules.
+The format of the team description paper is free.
+As a reference for writing the team description paper, the following is the format for the world competition of RoboCup @Home league.
 - The team description paper (TDP) is an 8-pages long scientific paper which must have an explained description of your main research, including the scientific contribution, goals, scope, and results.
 - Preferably, it should also contain the following:
   - the focus of research and the contributions in the respective elds,
