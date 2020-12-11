@@ -42,8 +42,8 @@ Please submit the Technical Video and Team Description Paper by the following li
 https://cn.robocupathomeedu.org/submission/
 
 Due of Technical Video and Team Description Paper Submission: **Dec 16, 2020**
+Please host the video online and submit only the link.
 
 Materials
 - Technical Video: Video showing the best robot performance. 
 - Team Description Paper: Technical description and photo of the robot system and operation.
-  - Please host the video online and submit only the link.
