@@ -38,6 +38,11 @@ Tasks
 - Poster Session
   - Please prepare slides to introduce your team technologeis and implemented systems. 
   - Each team has 10 min for presentation, 5 min for Q&A.
+  - Poster is evaluated the following criteria.
+  - Criteria: For each of the following evaluation criteria, a maximum of 10 points is given per jury member:
+  - 1. Novelty and scientific contribution
+  - 2. Relevance for RoboCup@Home
+  - 3. Presentation (Quality of poster, teaser talk and discussion during poster session)
 - Technical Challenges (Finals)
   - The Technical Video Challenge entries will be reviewed to select teams for the Technical Challenge(Finals).
   - Selected teams will give presentation and robot demonstration remotely via live streaming for the Technical Challenge during the RoboCup week.
