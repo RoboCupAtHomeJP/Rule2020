@@ -38,16 +38,27 @@ Tasks
 - Poster Session
   - Please prepare slides to introduce your team technologeis and implemented systems. 
   - Each team has 10 min for presentation, 5 min for Q&A.
-  - Poster is evaluated the following criteria.
+  <!--- Poster is evaluated for Best poster prize (iHR研究会) by the following criteria.
   - Criteria: For each of the following evaluation criteria, a maximum of 10 points is given per jury member:
   - 1. Novelty and scientific contribution
   - 2. Relevance for RoboCup@Home
-  - 3. Presentation (Quality of poster, teaser talk and discussion during poster session)
+  - 3. Presentation (Quality of poster, teaser talk and discussion during poster session) -->
 - Technical Challenges (Finals)
   - The Technical Video Challenge entries will be reviewed to select teams for the Technical Challenge(Finals).
   - Selected teams will give presentation and robot demonstration remotely via live streaming for the Technical Challenge during the RoboCup week.
   - Each team has 15 min for presentation, 5 min for Q&A.
-
+  <!--- Finals is evaluated by the following criteria.
+League-internal jury: The league-internal jury is formed by the Executive Committee.
+The evaluation of the league-internal jury is based on the following criteria:
+1.1. Efficacy/elegance of the solution
+1.2. Innovation/contribution to the league of the additional tasks solved
+1.3. Difficulty of the overall demonstration
+League-external jury: The league-external jury consists of people not being involved in the RoboCup@Home league, but having a related background (not necessarily robotics). They are appointed by the Executive Committee. 
+The evaluation of the league-external jury is based on the following criteria:
+2.1. Originality and presentation (story-telling is to be rewarded)
+2.2. Relevance/usefulness to everyday life
+2.3. Elegance/success of overall demonstration
+-->
 ※ Additional information
 - Technical Video Challenge in RoboCup2020 @Home Education Online Challenge : [movies](https://www.youtube.com/c/RoboCupatHomeEDU/playlists).
 - The rule of RoboCup2020 (World Competition)「[@Home Education Online Challenge](https://www.robocupathomeedu.org/challenges/robocuphome-education-online-challenge-2020)」
