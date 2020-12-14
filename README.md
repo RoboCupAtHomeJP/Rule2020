@@ -17,7 +17,7 @@ General Rules
 Tasks
 - [Robot Inspection (Setup Day)](rules/robotinspection_ja.md) <!-- （[English version](rules/robotinspection_en.md)） -->
 - [Basic Functionalities, RCJ2015](rules/basicfunctionalities_ja.md) <!-- （[English version](rules/basicfunctionalities_en.md)） -->
-- Final
+- [Final](rules/final_ja.md)
 
 
 ## Domestic Standard Platform League (DSPL)
@@ -30,7 +30,7 @@ General Rules
 Tasks
 - [Robot Inspection (Setup Day)](rules/robotinspection_ja.md) <!-- （[English version](rules/robotinspection_en.md)） -->
 - [Tidy Up, WRS2020](rules/tidyup_ja.md) <!-- （[English version](rules/tidyup_en.md)） -->
-- Final
+- [Final](rules/final_ja.md)
 
 ## Education リーグ
 以下の競技を実施します．
