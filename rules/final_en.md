@@ -10,4 +10,4 @@ The schedules of Final are shown below:
 - Demo video: 10 minutes
 - Q & A session: 5 minutes
 
-The schedule is strictly controlled. The video must be made in 10 minutes. If the 10 minutes over, the demonstration session is forces shut down and move to Q & A session. All team must prepare early because the schedule may be advanced.
+The schedule is strictly controlled. The video must be made in 10 minutes. If the 10 minutes over, the demonstration session is forces shut down and move to Q & A session. If the previous team ends less than 15 minutes, the schedule will not be advanced.
