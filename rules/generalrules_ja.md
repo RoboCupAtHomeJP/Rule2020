@@ -43,6 +43,7 @@ https://athome.robocup.org/wp-content/uploads/2019_rulebook.pdf
 本節の全項目はRCJ2020では採用されません．
 * Stage 1, 2という区分けはありません．RCJ2020では全チームが全タスクへの挑戦権を有します．また，別途アナウンスされるルール，配点，及びスケジュールで実施されます．
 * Stage 2のOpen Challengeが実施されない代わりに，OPL，DSPLについては，全チームがFinalへの挑戦権を有し，独自の技術をアピールするOpen Demonstrationsの機会が与えられます．
+* Robot Inspection，Final以外のタスクでは，3トライアルのうち最大のスコアが使用されます．Robot Inspection，Finalのタスクでは，別途アナウンスされる配点で実施されます．
 
 ## 3.8 Procedure during Tests
 ### 3.8.14 Time limits

@@ -38,6 +38,8 @@ Regarding the total external dimensions of the additional devices, it should be 
 All items in this section in the rulebook are not adopted for RCJ2020, and are replaced to following items:
 * There will be no division for Stage 1 and 2. In RCJ2020, all participated team can challenge in all tasks. In addition, it will be implemented with rules, allocation points, and schedules which will be announced separately.
 * As a replacement for Stage 2 of Open Challenge, for both OPL and DSPL, all participated team can challenge to the Final, to have the chance in showing own technology of each team for Open Demonstrations. 
+* For tasks other than Robot Inspection and Final, the highest score of the 3 trials will be used. For Robot Inspection and Final tasks, the scores will be assigned as announced separately.
+
 
 ## 3.8 Procedure during Tests
 ### 3.8.14 Time limits
